@@ -1,0 +1,17 @@
+
+.post {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  border: 3px solid gray;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  column-gap: 10px;
+  line-height: 1;
+}
+
+
+.post__id {
+  font-size: 24px;
+}
